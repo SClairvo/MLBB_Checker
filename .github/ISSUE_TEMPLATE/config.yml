@@ -1,2 +1,0 @@
-- name: Stale Image Remover
-  uses: stevemar/image-deleter@v1.0.1
