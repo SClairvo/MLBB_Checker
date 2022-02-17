@@ -1,18 +1,17 @@
-![image](https://github.com/f0isten9/MLBB-Checker/blob/gh-pages/20220217_063942.png)
-## Welcome to MLBB Checker
-You can review your [mlbb](https://m.mobilelegends.com/en) account here. Safe without having to login!
-### Function
-Namely, check whether your mlbb id exists or not, check the previous picture profile (pp) to date, and so on.
-```
-Exam: 
-Id: 12345678
-Server: 9876
-PP id: 1 (Your first mlbb pp)
+<img src="https://github.com/f0isten9/MLBB-Checker/blob/gh-pages/20220217_063942.png" alt="image">
+<h2>Welcome to MLBB Checker</h2> </p>
+You can review your <a href="https://m.mobilelegends.com/en">mlbb</a> account here. Safe without having to login!
+<h2>Function</h2>
+Namely, check whether your mlbb id exists or not, check the previous picture profile (pp) to date, and so on. </p>
+<code>
+Exam: </p>
+Id: 12345678 </p>
+Server: 9876 </p>
+PP id: 1 (Your first mlbb pp) </p>
 
-Result -
-Name: Player1354*
-(Image)
-```
+Result - </p>
+Name: Player1354* </p>
+(Image) </code> </p>
 
 See more details in [here](web).
 ### Thanks to
