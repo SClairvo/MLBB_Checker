@@ -1,5 +1,8 @@
 ![image](https://github.com/f0isten9/MLBB_Checker/blob/main/assets/20220217_063942.png)
 ![GitHub repo size](https://img.shields.io/github/repo-size/f0isten9/MLBB_Checker?color=green&logo=json)
+![im](https://img.shields.io/badge/platform-android-brightgreen)
+![Hex.pm](https://img.shields.io/hexpm/l/plug?color=red&logo=apache)
+![Mozilla Add-on](https://img.shields.io/amo/rating/dustman?color=blue&logo=google%20play&logoColor=green)
 ## Welcome to MLBB Checker
 You can review your [mlbb](https://m.mobilelegends.com/en) account here. Safe without having to login!
 ### Function
