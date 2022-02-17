@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+![image](src)
+## Welcome to MLBB Checker
+You can review your [mlbb](https://m.mobilelegends.com/en) account here. Safe without having to login!
+### Function
+Namely, check whether your mlbb id exists or not, check the previous picture profile (pp) to date, and so on.
+```
+Exam: 
+Id: 12345678
+Server: 9876
+PP id: 1 (Your first mlbb pp)
 
-You can use the [editor on GitHub](https://github.com/f0isten9/MLBB-Checker/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Result -
+Name: Player1354*
+(Image)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/f0isten9/MLBB-Checker/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+See more details in [here](web).
+### Thanks to
+- [Exodus](web)
+- WillieNM
+- PutraSWR
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Is there a problem in my application or is there a bug?
+Contact me at yomemaylo@gmail.com
