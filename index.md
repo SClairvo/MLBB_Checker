@@ -1,4 +1,4 @@
-![image](src)
+![image](https://github.com/f0isten9/MLBB-Checker/blob/main/20220217_063942.png)
 ## Welcome to MLBB Checker
 You can review your [mlbb](https://m.mobilelegends.com/en) account here. Safe without having to login!
 ### Function
@@ -16,7 +16,7 @@ Name: Player1354*
 
 See more details in [here](web).
 ### Thanks to
-- [Exodus](web)
+- [Exodus](https://youtube.com/channel/UCdfGVQIJ-W-_2wIbbHlUrfw)
 - WillieNM
 - PutraSWR
 ### Support or Contact
