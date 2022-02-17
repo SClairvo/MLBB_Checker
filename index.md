@@ -1,4 +1,4 @@
-![image](https://github.com/f0isten9/MLBB-Checker/blob/main/20220217_063942.png)
+![image](https://github.com/f0isten9/MLBB-Checker/blob/gh-pages/20220217_063942.png)
 ## Welcome to MLBB Checker
 You can review your [mlbb](https://m.mobilelegends.com/en) account here. Safe without having to login!
 ### Function
